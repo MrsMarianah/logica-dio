@@ -1,6 +1,6 @@
 let nomeHeroi = "Mari";
 
-// if, else if, else
+// if, else if
 let xpHeroi = 2000;
 let nivelHeroi 
 
